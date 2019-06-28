@@ -1,0 +1,52 @@
+body{
+	background-image: url(../images/js.jpeg);
+	text-align: center;
+}
+
+.container{
+    background-color:rgb(219, 203, 203);
+    width: 54%;
+    margin-top: 15%;
+    margin-left: 25%;
+
+    }
+
+  
+
+
+h1,h2,h3{
+    color: rgb(58, 140, 192);
+    font-family: 'Acme', sans-serif;
+}
+
+p {
+    color:rgb(112, 49, 8);
+    font-family: 'Acme', sans-serif;
+    font-size: 25px;
+}   
+
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+  background-color:black;
+  color: rgb(235, 157, 14);
+  font-family: 'Acme', sans-serif;
+  font-size:14px;
+}
+#start{
+    background-color:black;
+    color: rgb(235, 157, 14);
+    font-family: 'Acme', sans-serif;
+    font-size:14px;
+  }
+
+    
+
+#reasults{
+    color:rgb(112, 49, 8);
+  font-family: 'Acme', sans-serif;
+
+
+}
